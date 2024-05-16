@@ -31,3 +31,7 @@ Webscrapping using python beautifulsoup & selenium into following table <br/>
       
 **2. Data Cleaning** <br/>
 **3. Data Visualization** <br/>
+
+## **Certificate:** 
+[Link](https://certs.masaischool.com/certificate/cw_b32-ft30-129)
+
